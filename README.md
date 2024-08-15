@@ -18,9 +18,9 @@ No Windows, você pode usar o "Prompt de Comando" ou "Powershell".
 No Mac ou Linux, você pode usar o "Terminal".
 
 - Navegue até a pasta onde o arquivo calculadora.sh está.
-Use o comando cd para ir até a pasta onde o arquivo foi baixado. Por exemplo:
+Use o comando cd para ir até a pasta onde o arquivo foi baixado. 
 
--No terminal, execute o seguinte comando:
+- No terminal, execute o seguinte comando:
 ./calculadora.sh
 Isso iniciará o script e permitirá que você use a calculadora.
 
