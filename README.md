@@ -8,7 +8,6 @@ Esse código é como uma calculadora de bolso:
 - Depois, ele pergunta o que você quer fazer com esse número: somar, subtrair, multiplicar ou dividir (você escolhe um símbolo: +, -, * ou /).
 - Ele pergunta o segundo número que você quer usar.
 - Então, ele faz a conta para você e mostra o resultado.
-- Se você acidentalmente escolher um símbolo errado, ele avisa que não entendeu e pede para usar os símbolos corretos.
 
 ## Como executar o arquivo calculadora.sh?
 - Baixe o arquivo calculadora.sh do GitHub para o seu computador.
